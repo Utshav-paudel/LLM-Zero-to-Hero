@@ -8,4 +8,4 @@ This repo contains the resources, projects and documentation of mine while learn
 
 | Projects Completed |
 | ----------------- |
-|1.[**Pet name generator**]() |
+|1.[**Pet name generator**](https://github.com/Utshav-paudel/Petname-Generator) |
