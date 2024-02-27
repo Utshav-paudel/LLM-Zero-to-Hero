@@ -6,7 +6,7 @@ I will share my learning path, projects and finding with you through this reposi
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1.[**LLM from Scratch**](https://youtu.be/UU1WVnMk4E8?si=2r58NpTIn-Z0Y_Z2)| ✔️ |
-| 2.[**Hugging Face NLP course**](https://youtu.be/UU1WVnMk4E8?si=2r58NpTIn-Z0Y_Z2](https://huggingface.co/learn/nlp-course/en)| 🏊🏻‍♂️ |
+| 2.[**Hugging Face NLP course**](https://huggingface.co/learn/nlp-course/en)| 🏊🏻‍♂️ |
 | 3.[**LLM Course**](https://github.com/mlabonne/llm-course/tree/main)| 🏊🏻‍♂️ |
 
 
