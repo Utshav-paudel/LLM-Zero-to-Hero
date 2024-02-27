@@ -9,7 +9,9 @@ This repo contains the resources, projects and documentation of mine while learn
 | 1.[**LLM from Scratch**](https://youtu.be/UU1WVnMk4E8?si=2r58NpTIn-Z0Y_Z2)| ✔️ |
 | 2.[**LLM Course**](https://github.com/mlabonne/llm-course/tree/main)| 🏊🏻‍♂️ |
 
-| Projects Completed |
+
+## Work
+| Projects and Notebooks Completed |
 | ----------------- |
 |1.[**Pet name generator Webapp**](https://github.com/Utshav-paudel/Petname-Generator) |
 |1.[**YouTube Assistant Webapp**](https://github.com/Utshav-paudel/YouTube-assistant-langchain) |
